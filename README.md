@@ -8,6 +8,25 @@
        
 ### I’m looking to collaborate on 
 OpenTicket https://github.com/DJj123dj/open-ticket
+
+
+## My Skills
+#### Operating Systems
+![](https://skillicons.dev/icons?i=windows)
+
+#### Software
+![](https://skillicons.dev/icons?i=vscode,github,npm,git,replit,discloud,fivem&perline=6)
+
+#### Languages
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,arduino,mysql&perline=7)
+
+#### Frameworks
+![](https://skillicons.dev/icons?i=discordjs,express)
+
+#### Learning
+![](https://skillicons.dev/icons?i=apple,swift,react,cpp,bun,dart,flutter)
+
+
 ##
 More information #soon!
 
