@@ -55,6 +55,7 @@ If you like what I do and want to help fuel more late-night dev sessions (or jus
 
 
 
+
 Any support is super appreciated 💜
 
 
@@ -96,18 +97,26 @@ Any support is super appreciated 💜
 
 ## 📊 GitHub Stats
 
-### @FrankVissers
+### 📂 @FrankVissers
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankVissers&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankVissers&layout=compact&theme=tokyonight&hide_border=true)
 
-### @DJj123dj (dj-dj.be)
-![opendiscord's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJj123dj&show_icons=true&theme=tokyonight&hide_border=true)
+### 🔄 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=FrankVissers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrankVissers&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📂 @DJj123dj (dj-dj.be)
+![DJj123dj GitHub stats](https://github-readme-stats.vercel.app/api?username=DJj123dj&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=FrankVissers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 📈 Contribution Graph
+[![Frank's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FrankVissers&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
