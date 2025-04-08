@@ -42,9 +42,6 @@
 ---
 
 
-
-
-
 ## 💖 Support My Work
 
 If you like what I do and want to help fuel more late-night dev sessions (or just support open-source stuff), consider dropping a coffee or donation my way 🙏 💻🧃
@@ -52,19 +49,24 @@ If you like what I do and want to help fuel more late-night dev sessions (or jus
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourusername)
 - [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-darkblue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/FrankVissersDev?country.x=NL&locale.x=nl_NL)
 
-
-
-
-
 Any support is super appreciated 💜
+---
+
+## 📢 Marketing Team at OpenDiscord
+I'm proud to be part of the **marketing team** at **OpenDiscord**, helping to promote and support amazing community-driven projects such as **OpenTicket**, **OpenDiscord Bot**, and more!
+
+---
+
+## 🌟 Star My Repositories
+
+If you want to support the OpenDiscord project, please **star** the repositories:
 
 
+- ⭐ [OpenDiscord Bots](https://github.com/open-discord-bots/plugins)
+- ⭐ [OpenTicket](https://github.com/Open-Discord-Bots/open-ticket)
+- ⭐ [OpenTicket Docs](https://github.com/open-discord-bots/ot-docs)
 
-
-
-
-
-
+Your stars help the project grow! 🚀
 ---
 ## 🧠 Skills & Tools
 
