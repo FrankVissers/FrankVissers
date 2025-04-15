@@ -54,7 +54,8 @@ Any support is super appreciated 💜
 
 ## 📢 Marketing Team at OpenDiscord
 I'm proud to be part of the **marketing team** at **OpenDiscord**, helping to promote and support amazing community-driven projects such as **OpenTicket**, **OpenDiscord Bot**, and more!
-
+proof:
+https://github.com/open-discord-bots/open-ticket/?tab=readme-ov-file#%EF%B8%8F-team--contributors
 ---
 
 ## 🌟 Star My Repositories
