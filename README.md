@@ -46,7 +46,7 @@
 
 If you like what I do and want to help fuel more late-night dev sessions (or just support open-source stuff), consider dropping a coffee or donation my way 🙏 💻🧃
 
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourusername)
+- [![ko-fi #soon](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourusername)
 - [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-darkblue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/FrankVissersDev?country.x=NL&locale.x=nl_NL)
 
 Any support is super appreciated 💜
