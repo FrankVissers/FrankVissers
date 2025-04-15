@@ -56,6 +56,23 @@ Any support is super appreciated 💜
 I'm proud to be part of the **marketing team** at **OpenDiscord**, helping to promote and support amazing community-driven projects such as **OpenTicket**, **OpenDiscord Bot**, and more!
 proof:
 https://github.com/open-discord-bots/open-ticket/?tab=readme-ov-file#%EF%B8%8F-team--contributors
+<table>
+<tr>
+<td align="center"><img src="https://github.com/DJj123dj.png" alt="Profile Picture" width="80px"></td>
+<td align="center"><img src="https://github.com/smetsliam.png" alt="Profile Picture" width="80px"></td>
+<td align="center"><img src="https://github.com/FrankVissers.png" alt="Profile Picture" width="80px"></td>
+<td align="center"><img src="https://github.com/Sank34.png" alt="Profile Picture" width="80px"></td>
+<td align="center"><img src="https://github.com/Roppl3r.png" alt="Profile Picture" width="80px"></td>
+</tr>
+<tr>
+<th><a href="https://github.com/DJj123dj">💻 DJj123dj</a></th>
+<th><a href="https://github.com/smetsliam">💬 smetsliam</a></th>
+<th><a href="https://github.com/FrankVissers">💬 Frank Vissers</a></th>
+<th><a href="https://github.com/Sank34">💬 Sanke</a></th>
+<th><a href="https://github.com/Roppl3r">🧩 Roppl3r</a></th>
+</tr>
+</table>
+
 ---
 
 ## 🌟 Star My Repositories
